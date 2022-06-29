@@ -1,0 +1,98 @@
+html {
+
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Sacramento', cursive;
+  background-color: #fefaf6;
+}
+
+h1 {
+  margin: 0 auto 0;
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 70px;
+}
+
+.illustration_1{
+  height: 600px;
+  max-width: 600px;
+  margin-left: 110px;
+}
+
+.top-section {
+  background-color: #fefaf6;
+  border: none;
+  position: relative;
+  padding-top: 50px;
+  height: 850px;
+}
+
+.middle-section {
+  background-color: #B8FFF9;
+  border-radius: 30px;
+  margin:30px;
+
+}
+
+.bottom-section {
+  background-color: #FAF4B7;
+  border-radius: 30px;
+  margin:30px;
+  height: 700px;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 22%;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+  bottom: 300px;
+  ;
+}
+
+.low{
+  width: 400px;
+  height: 400px;
+  position: relative;
+  top: 20px;
+}
+
+.vlow{
+  width: 250px;
+  height: 250px;
+  position: relative;
+  top: 50px;
+}
+
+hr {
+  background-color: #B8FFF9;
+  border-style: dotted none none;
+  border-color: #fefaf6;
+  border-width: 10px;
+  width: 3%;
+
+}
+
+.hv:hover{
+  color: red;
+  font-size: 35px;
+}
+
+.sel:hover{
+  width: 50px;
+  height: 50px;
+  margin: 0;
+}
+
+.low2 {
+  width: 42px;
+  height: 42px;
+}
