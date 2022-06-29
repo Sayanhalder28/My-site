@@ -71,6 +71,7 @@ h1 {
   position: relative;
   top: 50px;
   image-resolution:100dpi;
+  border-radius: 50%;
 }
 
 hr {
