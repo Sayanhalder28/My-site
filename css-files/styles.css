@@ -1,5 +1,6 @@
 html {
 
+
 }
 
 body {
@@ -16,6 +17,10 @@ h1 {
   font-size: 70px;
 }
 
+.profile , .skills,.contact-me{
+width: 70%;
+margin : auto;
+}
 .illustration_1{
   height: 600px;
   max-width: 600px;
@@ -71,7 +76,6 @@ h1 {
   position: relative;
   top: 50px;
   image-resolution:100dpi;
-  border-radius: 50%;
 }
 
 hr {
